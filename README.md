@@ -19,5 +19,6 @@ Apex это современная платформа для самостоят�
 - будем обновлять по добавлению
 
 ## Простая диаграмма 
-![Uploading Diagram-Diplom.png…]()
+<img width="1581" height="891" alt="image" src="https://github.com/user-attachments/assets/08ecf90f-f16b-4de9-a14b-6ee322545fe1" />
+
 
