@@ -19,6 +19,7 @@ Apex это современная платформа для самостоят�
 - будем обновлять по добавлению
 
 ## Простая диаграмма 
-<img width="1581" height="891" alt="image" src="https://github.com/user-attachments/assets/08ecf90f-f16b-4de9-a14b-6ee322545fe1" />
+<img width="1581" height="891" alt="image" src="https://github.com/user-attachments/assets/903e2872-286c-4e92-8125-8b36e63c5fe1" />
+
 
 
